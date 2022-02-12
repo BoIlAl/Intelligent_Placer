@@ -38,4 +38,4 @@
 + Поверхность едина для всех фотографий.
 
 ## Предметы
-https://drive.google.com/file/d/1Y9jZStHf-LM3eoG-qy7lYzYjrFvImGJS/view?usp=sharing
+https://drive.google.com/drive/folders/14sYtuP_SSFzUdqtuA2_dA-zmxr-Egy--?usp=sharing
