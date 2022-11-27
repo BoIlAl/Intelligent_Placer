@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 .__pycache__/
 .idea/
+
+intelligent_placer_lib/__pycache__/
+intelligent_placer_lib/modules/__pycache__/
